@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me zorzettoarthuur.2055@gmail.com
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I'm working on a local running AI assistant called Azi with ollama.
+- ⚡ Fun fact: I'm working on a local running AI assistant called Ami with lm studio.
 
 <!---
 Thuur-165/Thuur-165 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
