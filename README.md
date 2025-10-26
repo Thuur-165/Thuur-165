@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Thuur-165
-- 👀 I’m interested in Python, JavaScript and Arduino
+- 👀 I’m interested in Python(Been using this thing for 6 years now) and mostly **Nim**(The best language IMO)
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me zorzettoarthuur.2055@gmail.com
